@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello
+=======
+add 2
+>>>>>>> parent of a9b7db7... test2 delete
